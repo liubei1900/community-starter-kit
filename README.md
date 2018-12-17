@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+test my frist project
 
 ## What it does
 
-FEATURES PLACEHOLDER
+in will help you to make us happy.
 
 ## Getting started
 
